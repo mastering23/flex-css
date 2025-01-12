@@ -15,3 +15,4 @@
 ---
 
 💻 Follow along with my progress!
+![alt text](image.png)

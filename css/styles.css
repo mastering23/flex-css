@@ -1,4 +1,4 @@
-.box1{
+.box1 {
   background-color: blue;
 
   width: 200px;
@@ -6,69 +6,69 @@
 
 }
 
-.box2{
+.box2 {
 
   background-color: brown;
- 
-  width: 100px;
-  height: 100px;
-  float:left;
-  
-
-}
-
-.box3{
-
-  background-color:cyan;
 
   width: 100px;
   height: 100px;
-  float:left;
+  float: left;
+
 
 }
 
-.box4{
+.box3 {
+
+  background-color: cyan;
+
+  width: 100px;
+  height: 100px;
+  float: left;
+
+}
+
+.box4 {
 
   background-color: blueviolet;
- 
+
   width: 100px;
   height: 100px;
   float: left;
 }
 
-.box5{
-background-color: darkgoldenrod;
+.box5 {
+  background-color: darkgoldenrod;
 
-width: 100px;
-height: 100px;
+  width: 100px;
+  height: 100px;
 }
 
-.box6{
-background-color: mediumseagreen;
+.box6 {
+  background-color: mediumseagreen;
 
-width: 200px;
-height: 100px;
+  width: 200px;
+  height: 100px;
 }
-.box7{
-  background-color:black;
+
+.box7 {
+  background-color: black;
   float: left;
   width: 100px;
   height: 100px;
-  }
-  
-  .box8{
-    background-color:burlywood;
-    
-    width: 100px;
-    height: 100px;
-    float: left;
-    }
+}
 
-    .box9{
-      background-color:chartreuse;
-      
-      width: 100px;
-      height: 100px;
-      float: left;
-      }
-      
+.box8 {
+  background-color: burlywood;
+
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+
+.box9 {
+  background-color: chartreuse;
+
+  width: 100px;
+  height: 100px;
+  float: left;
+}
